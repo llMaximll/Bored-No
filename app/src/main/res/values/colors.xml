@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+<!-- Light -->
+    <color name="blue_100">#BBDEFB</color>
+    <color name="blue_200">#90CAF9</color>
+    <color name="blue_600">#1E88E5</color>
+    <color name="blue_600_blue_100">@color/blue_600</color>
+    <color name="blue_600_blue_grey_300">#1E88E5</color>
+    <color name="blue_600_grey_300">#1E88E5</color>
+    <color name="blue_700">#1976D2</color>
+    <color name="light_blue_30_grey_900">#E7EFF9</color>
+    <color name="blue_grey_300">#90A4AE</color>
+    <color name="blue_grey_700">#455A64</color>
+    <color name="blue_grey_700_blue_100">@color/blue_grey_700</color>
+    <color name="red_100">#FFCDD2</color>
+    <color name="red_100_grey_800">@color/red_100</color>
+    <color name="red_600">#E53935</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_800">#424242</color>
+    <color name="grey_900">#212121</color>
+    <color name="white_grey_800">@color/white</color>
+    <color name="blue_100_grey_800">@color/blue_100</color>
+    <color name="blue_600_grey_800">#1E88E5</color>
+    <color name="grey_900_light_blue_30">@color/grey_900</color>
+</resources>

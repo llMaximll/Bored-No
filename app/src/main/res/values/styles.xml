@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.MaterialComponents.Button.Icon.Filter">
+        <item name="iconTint">@color/blue_600_grey_300</item>
+        <item name="backgroundTint">@color/blue_100_grey_800</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:textColor">@color/grey_900_light_blue_30</item>
+    </style>
+    <style name="Widget.MaterialComponents.Button.Icon.SendButton">
+        <item name="backgroundTint">@color/white_grey_800</item>
+        <item name="android:textColor">@color/blue_600_grey_300</item>
+    </style>
+    <style name="Widget.MaterialComponents.Button.Reset">
+        <item name="backgroundTint">@color/red_100_grey_800</item>
+        <item name="android:textColor">@color/red_600</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+    <style name="Widget.MaterialComponents.Button.Apply">
+        <item name="backgroundTint">@color/blue_100_grey_800</item>
+        <item name="android:textColor">@color/blue_600_grey_300</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+    <style name="Widget.MaterialComponents.Chip.Filter.Type">
+        <item name="chipStrokeWidth">2dp</item>
+        <item name="chipStrokeColor">@color/stroke_tint_chip_type</item>
+        <item name="chipBackgroundColor">@color/blue_100_grey_800</item>
+        <item name="chipCornerRadius">12dp</item>
+        <item name="checkedIcon">@drawable/ic_done_black_24dp</item>
+        <item name="checkedIconTint">@color/blue_600_blue_100</item>
+        <item name="android:textColor">@color/text_tint_chip_type</item>
+    </style>
+</resources>
